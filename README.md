@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartikeya Saraswat</h1>
 <h3 align="center">I'm a recent graduate with an MSc in Behavioural and Data Science from the University of Warwick. My passion lies in leveraging data to derive meaningful insights and drive decision-making. With a strong foundation in computer science and hands-on experience in data analysis and software development, I'm excited to contribute to innovative projects in the field of data science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeya-saraswat&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeya-saraswat" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikeya-saraswat" alt="kartikeya-saraswat" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kartikeya-Saraswat](https://github.com/Kartikeya-Saraswat)
